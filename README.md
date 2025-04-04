@@ -6,6 +6,8 @@ square brackets
 
 e.g. `https://example.com/qux-c?arraykey[]=a&arraykey[]=b`
 
+`undici` issue: https://github.com/nodejs/undici/issues/4146
+
 ## Steps to run the reproduction
 
 Simply run
